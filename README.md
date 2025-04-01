@@ -1,0 +1,1 @@
+# Synergix_Dashboard_PowerBI
